@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+Title: Welcome to my blog of Switching to DevOps | Cloud.
 ---
-
